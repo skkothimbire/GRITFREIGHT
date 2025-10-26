@@ -5,6 +5,7 @@ import AboutSection from '@/components/AboutSection.vue';
 import ServicesCards from '@/components/ServicesCards.vue';
 import Footer from '@/components/Footer.vue';
 import WhyChooseUS from '@/components/WhyChooseUS.vue';
+import Testimonial from '@/components/Testimonial.vue';
 </script>
 
 <template>
@@ -38,6 +39,7 @@ import WhyChooseUS from '@/components/WhyChooseUS.vue';
       </div>
     </section>
     <WhyChooseUS />
+    <Testimonial />
 
     <!-- Call to Action -->
     <!-- <section class="cta-section d-flex align-items-center justify-content-center text-center text-white">

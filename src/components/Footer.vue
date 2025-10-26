@@ -57,7 +57,7 @@
     <div class="footer-bottom text-center py-3">
       <small>
         &copy; <span class="text-primary">Gritfreight</span> 2025. All Rights Reserved |
-        Designed by <a href="#" target="_blank">DeployX</a>
+        Designed by <a href="https://deployx.io/" target="_blank">DeployX</a>
       </small>
     </div>
   </footer>
